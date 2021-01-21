@@ -1,6 +1,10 @@
-def say_hello():
-    print('Hello World!')
-    print('T_T')
+import pandas as pd
+
+
+def data_prep():
+    data = pd.read_csv(r'data/train.csv')
+    print(data.head())
+
 
 if __name__ == '__main__':
-    say_hello()
+    data_prep()

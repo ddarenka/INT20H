@@ -7,7 +7,7 @@
 
 - Create a new local folder to clone this github-repository on your computer.
 
-- Execute these commands in the command prompt at created folder (type *cmd* at your folder's path bar):
+- Execute these commands in the command prompt at created folder (type `cmd` at your folder's path bar):
   - `git init`
   - `git clone https://github.com/ddarenka/INT20H.git`
   - `jupyter-notebook`.

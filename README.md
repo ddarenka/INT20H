@@ -7,5 +7,7 @@
 - Create a new local folder to clone this github-repository on your computer and execute these commands in your command line:
   - `git init`
   - `git clone https://github.com/ddarenka/INT20H.git`
-  - `jupyter-notebook jupyter/machine_learning_approach_linear_svc_grid.ipynb`.
+  - `jupyter-notebook`.
+- Go to the repository you've previously created and find 'jupyter' folder and 'file machine_learning_approach_linear_svc_grid.ipynb' in it.
+- Open it.
 - Enjoy :)

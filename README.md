@@ -1,5 +1,5 @@
 # INT20H
-## INT20H Data Science hackathon
+## Data Science hackathon
 ## U.S. B&G Team
 
 ### How to run our code properly?

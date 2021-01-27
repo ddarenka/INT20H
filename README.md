@@ -18,4 +18,4 @@
 
 - Click `Kernel` -> `Restart & Run all`.
 
-- Enjoy :)
+- Enjoy! :)

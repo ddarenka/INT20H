@@ -10,7 +10,7 @@
   - `git clone https://github.com/ddarenka/INT20H.git`
   - `jupyter-notebook`.
   
-- Click `Upload` and navigate to to the repository you've previously created and find `jupyter` folder.
+- Click the `Upload` button and navigate to the repository you've previously created and find `jupyter` folder.
 
 - Choose file `machine_learning_approach_linear_svc_grid.ipynb` in it.
 

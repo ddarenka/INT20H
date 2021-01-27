@@ -5,7 +5,7 @@
 ### How to run our code properly?
 - [Download Anaconda](https://www.continuum.io/downloads), if you don't have it installed yet.
 
-- Create a new local folder to clone this github-repository on your computer.
+- Create a new local folder on your computer where you want to clone this github-repository.
 
 - Execute these commands in the command prompt at created folder (type `cmd` at your folder's path bar):
   - `git init`
@@ -16,6 +16,6 @@
 
 - Choose file `machine_learning_approach_linear_svc_grid.ipynb` in it.
 
-- Enjoy :)
+- Click `Kernel` -> `Restart & Run all`.
 
-*You also can try `Kernel` -> `Restart & Run all` at will to check the code working.* 
+- Enjoy :)
